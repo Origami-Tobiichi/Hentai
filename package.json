@@ -2,12 +2,12 @@
   "name": "Haruka-Md",
   "version": "0.0.6",
   "description": "whatsapp bot with multi device.",
-  "main": "haruka.js",
+  "main": "node haruka.js",
   "directories": {
     "lib": "lib"
   },
   "scripts": {
-    "start": "npm start haruka.js"
+    "start": "npm start"
   },
   "keywords": [
     "termux",
